@@ -1,0 +1,6 @@
+Notes:
+
+Given the structure of the output data, going to need a class for "No Flicker Presented".
+Might be worth using a transformer and the trigger data as a mask for the input series.
+
+For first pass, use a sliding window of length N with 
